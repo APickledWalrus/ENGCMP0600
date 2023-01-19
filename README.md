@@ -15,41 +15,49 @@ First, if you haven't already [sign up](https://github.com/signup) for a [GitHub
 
 Go to GitHub Education's Student Developer Pack page.
 It can be accessed at [https://education.github.com/pack](https://education.github.com/pack).
+
 ![](student_developer_pack_home.png)
 
 ## Step 3
 
 Click the green button to sign up for the Student Developer Pack.
+
 ![](student_developer_pack_sign_up.png)
 
 ## Step 4
 Click the blue button labeled `Get student benefits`.
 You may have to scroll down the page to find the button.
+
 ![](get_student_benefits.png)
 
 ## Step 5
 You will be brought to a page like the one shown below.
 Make sure to select the option labeled `Student`.
+
 ![](student_selection.png)
 
 ## Step 6
 Read the requirements and ensure you meet them.
+
 ![](requirements.png)
 
 ## Step 7
 Select your email from the list of emails linked to your account.
 
 *NOTE: University provided emails will get you faster approval (notice how my Pitt email is verified).*
+
 ![](email_selection.png)
 
 ## Step 8
 Enter the name of your school in the next field.
 If you chose a University affiliated email address, this field may be automatically filled.
+
 ![](school_selection.png)
 
 ## Step 9
 The final field will ask you *how* you plan to use GitHub.
 Generally, a generic response will suffice, like the one pictured below.
+
 ![](generic_reason.png)
 
 ## Step 10
